@@ -40,7 +40,7 @@ particularly home and lifestyle products.
 
 ## Project Workflow
 
-**1st: Data Cleaning**
+### 1st: Data Cleaning
 
 Cleaned and standardized the dataset using Python and Pandas.
 
@@ -53,9 +53,9 @@ Notebook:
 🚧 Dashboard visualizations are currently being refined.
 Final visuals will be uploaded shortly._placeholder_(01_data_cleaning.ipynb)
 
-**2nd: Exploratory Data Analysis**
+2nd: Exploratory Data Analysis
 
-2 Exploratory Data Analysis
+### 2nd: Exploratory Data Analysis
 
 Performed statistical analysis and visualization to identify patterns.
 
@@ -70,7 +70,7 @@ Notebook:
 🚧 Dashboard visualizations are currently being refined.
 Final visuals will be uploaded shortly._placeholder_(02_exploratory_data_analysis.ipynb)
 
-**3rd: Power BI Dashboard**
+### 3rd: Power BI Dashboard
 
 Created an interactive dashboard presenting business insights.
 
@@ -87,6 +87,6 @@ Final visuals will be uploaded shortly.placholder(dashboard/)
 
 **Repository Structure**
 
-data
-notebooks
-images
+- data
+- notebooks
+- images
