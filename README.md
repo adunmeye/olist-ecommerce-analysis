@@ -107,7 +107,7 @@ Screenshots available in:
 🚧 Dashboard visualizations are currently being refined.
 Final visuals will be uploaded shortly.placholder(dashboard/)
 
-**Repository Structure**
+## Repository Structure
 
 - data
 - notebooks
