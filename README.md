@@ -6,8 +6,7 @@ Python | Power BI | Data Analysis | EDA
 Data analysis of the Olist Brazilian e-commerce dataset using Python, SQL, and Power BI to uncover sales, customer, and logistics insights.
 
 ## Project Overview
-This project analyzes the Brazilian Olist e-commerce dataset to uncover
-insights about sales performance, customer behavior, and logistics efficiency.
+This analysis examined the Olist Brazilian E-commerce dataset, containing over 100,000 transactions from sellers and customers across Brazil. The objective of the analysis was to understand customer behavior, logistics performance, seller activity, and revenue trends within the Olist marketplace.
 
 The analysis includes data cleaning, exploratory data analysis (EDA),
 and an interactive Power BI dashboard.
