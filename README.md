@@ -10,6 +10,11 @@ This analysis examined the Olist Brazilian E-commerce dataset, containing over 1
 
 The analysis includes data cleaning, exploratory data analysis (EDA),
 and an interactive Power BI dashboard.
+## Data Set
+Original Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+My Cleaned Data: 
+
 
 ## Tools Used
 
