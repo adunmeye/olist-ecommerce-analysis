@@ -1,7 +1,5 @@
 Python | Power BI | Data Analysis | EDA
 
-## (Project Banner: Image coming soon!)
-
 ## Olist E-commerce Marketplace Analysis
 Data analysis of the Olist Brazilian e-commerce dataset using Python, SQL, and Power BI to uncover sales, customer, and logistics insights.
 
@@ -41,12 +39,6 @@ My Cleaned Data: https://github.com/adunmeye/olist-ecommerce-analysis/blob/main/
 5. Power BI
 6. Jupyter Notebook
 
-## Dashboard Preview
-🚧 Dashboard visualizations are currently being refined.
-Final visuals will be uploaded shortly.
-(![Executive Dashboard](images/dashboard_preview.png))
-Placeholder
-
 ## Key Insights
 - The **Bed Bath Table** category generated the largest share of revenue, contributing to **8.79% of total sales**.
 - Freight costs show little correlation with package weight, suggesting shipping prices are influenced by additional factors such as distance or logistics provider pricing. 
@@ -74,7 +66,6 @@ Tasks included:
 * Creating derived features (delivery time, order month)
 
 Notebook:
-🚧 Dashboard visualizations are currently being refined.
 Final visuals will be uploaded shortly._placeholder_(01_data_cleaning.ipynb)
 
 ### 2nd: Exploratory Data Analysis
