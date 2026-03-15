@@ -65,9 +65,6 @@ Tasks included:
 * Converting date fields
 * Creating derived features (delivery time, order month)
 
-Notebook:
-Final visuals will be uploaded shortly._placeholder_(01_data_cleaning.ipynb)
-
 ### 2nd: Exploratory Data Analysis
 
 Performed statistical analysis and visualization to identify patterns.
@@ -78,10 +75,6 @@ Examples:
 * Customer geographic distribution
 * Product category performance
 * Freight cost relationships
-
-Notebook:
-🚧 Dashboard visualizations are currently being refined.
-Final visuals will be uploaded shortly._placeholder_(02_exploratory_data_analysis.ipynb)
 
 ### 3rd: Power BI Dashboard
 
@@ -94,9 +87,6 @@ Pages include:
 * Customer Insights
 * Logistics Performance
 
-Screenshots available in:
-🚧 Dashboard visualizations are currently being refined.
-Final visuals will be uploaded shortly.placholder(dashboard/)
 
 ## Repository Structure
 
