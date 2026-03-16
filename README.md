@@ -65,6 +65,8 @@ Tasks included:
 * Converting date fields
 * Creating derived features (delivery time, order month)
 
+Data Cleaning Notebook: https://github.com/adunmeye/olist-ecommerce-analysis/blob/main/notebooks/Capstone%20Project%20Brazilian%20E-Commerce%20Public%20Cleaning.ipynb
+
 ### 2nd: Exploratory Data Analysis
 
 Performed statistical analysis and visualization to identify patterns.
@@ -75,6 +77,10 @@ Examples:
 * Customer geographic distribution
 * Product category performance
 * Freight cost relationships
+
+EDA Notebook:
+https://github.com/adunmeye/olist-ecommerce-analysis/blob/main/notebooks/Capstone%20Project%20Brazilian%20E-Commerce%20Public%20EDA.ipynb
+
 
 ### 3rd: Power BI Dashboard
 
@@ -87,6 +93,8 @@ Pages include:
 * Customer Insights
 * Logistics Performance
 
+Power BI (PDF): 
+https://github.com/adunmeye/olist-ecommerce-analysis/blob/main/dashboard/powerbi/olist_dashboard_screenshots/Brazil%20Olist%20Ecommerce%20Executive%20Dashboard.pdf
 
 ## Repository Structure
 
